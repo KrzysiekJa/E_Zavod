@@ -1,0 +1,164 @@
+📂 Базова папка: C:/Users/User/Desktop/E_Zavod/GitHub
+
+   └── 📁 config
+   └── 📁 Database
+   └── 📁 gui
+   └── 📁 settings
+   └── 📄 icone.ico
+   └── 📄 launcher.py
+   └── 📄 User Guide.docx
+------------------------
+📂 config
+   └── 📁 __pycache__
+   └── 📄 settings.py
+------------------------
+📂 config\__pycache__
+   └── 📄 settings.cpython-314.pyc
+------------------------
+📂 Database
+   └── 📁 Manufacturing data
+   └── 📁 Viewer_v2
+   └── 📁 __pycache__
+   └── 📄 DB_REPORT.py
+   └── 📄 Factory.db
+   └── 📄 Factory.sql
+   └── 📄 Logs.txt
+------------------------
+📂 Database\Manufacturing data
+------------------------
+📂 Database\Viewer_v2
+   └── 📁 assets
+   └── 📁 core
+   └── 📁 styles
+   └── 📁 ui
+   └── 📁 widgets
+   └── 📁 __pycache__
+   └── 📄 app.py
+   └── 📄 config.py
+   └── 📄 db_report_settings.json
+   └── 📄 debug_helper.py
+   └── 📄 diagnostics.py
+------------------------
+📂 Database\Viewer_v2\assets
+   └── 📄 icone.ico
+------------------------
+📂 Database\Viewer_v2\core
+   └── 📁 __pycache__
+   └── 📄 database.py
+   └── 📄 settings_manager.py
+   └── 📄 startup_dialog.py
+   └── 📄 table_loader.py
+   └── 📄 __init__.py  -ПУСТИЙ
+------------------------
+📂 Database\Viewer_v2\core\__pycache__
+   └── 📄 database.cpython-314.pyc
+   └── 📄 settings_manager.cpython-314.pyc
+   └── 📄 startup_dialog.cpython-314.pyc
+   └── 📄 table_loader.cpython-314.pyc
+   └── 📄 __init__.cpython-314.pyc
+------------------------
+📂 Database\Viewer_v2\styles
+   └── 📁 __pycache__
+   └── 📄 colors.py
+   └── 📄 stylesheets.py
+   └── 📄 __init__.py  -ПУСТИЙ
+------------------------
+📂 Database\Viewer_v2\styles\__pycache__
+   └── 📄 colors.cpython-314.pyc
+   └── 📄 stylesheets.cpython-314.pyc
+   └── 📄 __init__.cpython-314.pyc
+------------------------
+📂 Database\Viewer_v2\ui
+   └── 📁 none
+   └── 📁 __pycache__
+   └── 📄 additional_window.py
+   └── 📄 base_controller.py
+   └── 📄 filter_controller.py
+   └── 📄 full_size_controller.py
+   └── 📄 grid_controller.py
+   └── 📄 highlight_controller.py
+   └── 📄 logs_window.py
+   └── 📄 main_window.py
+   └── 📄 no_matches_dialog.py
+   └── 📄 search_controller.py
+   └── 📄 side_menu.py
+   └── 📄 table_view.py
+   └── 📄 tab_bar.py
+   └── 📄 __init__.py  -ПУСТИЙ
+------------------------
+📂 Database\Viewer_v2\ui\none
+------------------------
+📂 Database\Viewer_v2\ui\__pycache__
+   └── 📄 additional_window.cpython-314.pyc
+   └── 📄 base_controller.cpython-314.pyc
+   └── 📄 controls_manager.cpython-314.pyc
+   └── 📄 filter_controller.cpython-314.pyc
+   └── 📄 filter_input_dialog.cpython-314.pyc
+   └── 📄 filter_widget.cpython-314.pyc
+   └── 📄 full_size_controller.cpython-314.pyc
+   └── 📄 grid_controller.cpython-314.pyc
+   └── 📄 highlight_controller.cpython-314.pyc
+   └── 📄 highlight_manager.cpython-314.pyc
+   └── 📄 logs_window.cpython-314.pyc
+   └── 📄 main_window.cpython-314.pyc
+   └── 📄 no_matches_dialog.cpython-314.pyc
+   └── 📄 search_controller.cpython-314.pyc
+   └── 📄 side_menu.cpython-314.pyc
+   └── 📄 table_controller.cpython-314.pyc
+   └── 📄 table_view.cpython-314.pyc
+   └── 📄 tab_bar.cpython-314.pyc
+   └── 📄 __init__.cpython-314.pyc
+------------------------
+📂 Database\Viewer_v2\widgets
+   └── 📁 __pycache__
+   └── 📄 resizable_handle.py  -ПУСТИЙ
+   └── 📄 styled_radio.py
+   └── 📄 __init__.py
+------------------------
+📂 Database\Viewer_v2\widgets\__pycache__
+   └── 📄 styled_radio.cpython-314.pyc
+   └── 📄 __init__.cpython-314.pyc
+------------------------
+📂 Database\Viewer_v2\__pycache__
+   └── 📄 config.cpython-314.pyc
+   └── 📄 debug_helper.cpython-314.pyc
+------------------------
+📂 Database\__pycache__
+   └── 📄 DB_REPORT.cpython-314.pyc
+------------------------
+📂 gui
+   └── 📁 settings
+   └── 📁 __pycache__
+   └── 📄 database_menu.py
+   └── 📄 main_menu.py
+------------------------
+📂 gui\settings
+   └── 📁 __pycache__
+   └── 📄 appearance.py  -ПУСТИЙ
+   └── 📄 export.py  -ПУСТИЙ
+   └── 📄 settings_app.py
+   └── 📄 simulation.py  -ПУСТИЙ
+   └── 📄 __init__.py
+------------------------
+📂 gui\settings\__pycache__
+   └── 📄 settings_app.cpython-314.pyc
+   └── 📄 __init__.cpython-314.pyc
+------------------------
+📂 gui\__pycache__
+   └── 📄 database_menu.cpython-314.pyc
+   └── 📄 database_menu_tk.cpython-314.pyc
+   └── 📄 database_viewer.cpython-314.pyc
+   └── 📄 gui_main.cpython-314.pyc
+   └── 📄 main_menu.cpython-314.pyc
+   └── 📄 preview_window.cpython-314.pyc
+   └── 📄 preview_window_tk.cpython-314.pyc
+   └── 📄 settings_window.cpython-314.pyc
+   └── 📄 theme.cpython-314.pyc
+   └── 📄 theme_manager.cpython-314.pyc
+   └── 📄 user_window.cpython-314.pyc
+   └── 📄 __init__.cpython-314.pyc
+------------------------
+📂 settings
+   └── 📄 settings_launcher.py
+------------------------
+

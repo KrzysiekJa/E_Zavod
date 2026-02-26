@@ -1,0 +1,14 @@
+{
+  "rows": "1",
+  "mode": "number",
+  "separator": "NONE",
+  "theme": "blue",
+  "last_db_path": "c:\\Users\\User\\Desktop\\E_Zavod\\Python\\Database\\Factory.db",
+  "show_tables": true,
+  "show_table_names": true,
+  "show_statistics": false,
+  "show_data_types": false,
+  "separate_titles": false,
+  "blank_line_after_table_name": false,
+  "window_geometry": "1920x1009+-87+-13"
+}
